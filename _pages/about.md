@@ -15,6 +15,8 @@ S_{1}^{(1)}\left| e_{\mathbf{p}_{1} ,r_{1}}^{-} ,e_{\mathbf{p}_{2} ,r_{2}}^{+}\r
 \cdot \left(\sum _{r'',\mathbf{p} ''}\sqrt{\frac{m}{VE_{\mathbf{p} ''}}} c_{r^{\prime \prime }}\left(\mathbf{p}^{\prime \prime }\right) u_{r^{\prime \prime }}\left(\mathbf{p}^{\prime \prime }\right) e^{-ip^{\prime \prime } x_{1}}\right)\left| e_{\mathbf{p}_{1} ,r_{1}}^{-} ,e_{\mathbf{p}_{2} ,r_{2}}^{+}\right\rangle.\end{gathered}$$
 {{< /math >}}
 
+改写结果
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
