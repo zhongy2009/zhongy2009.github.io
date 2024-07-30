@@ -10,8 +10,9 @@ redirect_from:
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 {{< math >}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
+$$\begin{gathered} 
+S_{1}^{(1)}\left| e_{\mathbf{p}_{1} ,r_{1}}^{-} ,e_{\mathbf{p}_{2} ,r_{2}}^{+}\right\rangle =ie\int d^{4} x_{1}\left(\sum _{s,\mathbf{k}}\sqrt{\frac{1}{2V\omega _{\mathbf{k}}}} \varepsilon _{\mu ,s} (\mathbf{k} )a_{s}^{\dagger } (\mathbf{k} )e^{ikx_{1}}\right)\left(\sum _{r^{\prime } ,\mathbf{p}^{\prime }}\sqrt{\frac{m}{VE_{\mathbf{p}^{\prime }}}} d_{r^{\prime }}\left(\mathbf{p}^{\prime }\right)\overline{v}_{r^{\prime }}\left(\mathbf{p}^{\prime }\right) e^{-ip^{\prime } x_{1}}\right) \gamma ^{\mu } \times \\
+\cdot \left(\sum _{r'',\mathbf{p} ''}\sqrt{\frac{m}{VE_{\mathbf{p} ''}}} c_{r^{\prime \prime }}\left(\mathbf{p}^{\prime \prime }\right) u_{r^{\prime \prime }}\left(\mathbf{p}^{\prime \prime }\right) e^{-ip^{\prime \prime } x_{1}}\right)\left| e_{\mathbf{p}_{1} ,r_{1}}^{-} ,e_{\mathbf{p}_{2} ,r_{2}}^{+}\right\rangle.\end{gathered}$$
 {{< /math >}}
 
 A data-driven personal website
